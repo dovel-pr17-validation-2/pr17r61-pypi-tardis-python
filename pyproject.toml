@@ -42,7 +42,7 @@ Homepage = "https://github.com/tardis-dev/tardis-python"
 [dependency-groups]
 dev = [
     "pytest>=9.0.3,<10",
-    "pytest-asyncio>=1.4.0,<2",
+    "pytest-asyncio>=1.4.1.post1,<2",
     "black>=26.10.1,<27",
 ]
 
